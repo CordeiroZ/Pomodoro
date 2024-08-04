@@ -106,3 +106,5 @@ function zerar () {
     clearInterval(intervaloId)
     intervaloId = null
 }
+
+// Funcionalidades
